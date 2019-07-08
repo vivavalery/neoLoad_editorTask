@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=EditorNeoLoad
+project.version=6.5
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=6.10.0
+product.original.version=6.10.0
+project.id=97e55e7c-f84b-40af-9d47-5989e62bd016
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
